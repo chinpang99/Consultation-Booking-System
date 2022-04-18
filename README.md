@@ -1,2 +1,2 @@
 # Consultation-Booking-System
-Degree Object Oriented Java Project
+A Java project which applied Object-Oriented Programming
